@@ -15,7 +15,7 @@ $(function() {
 
 	$('.down').cycle({
 	  fx : 'scrollDown',
-	  speed: 2300,
+	  speed: 2400,
 	  timeout: 4500,
 	  delay: 4600
 	});
